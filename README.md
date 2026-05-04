@@ -357,7 +357,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-Built with **Python** and a lot of **coffee** ☕.
+Built with **Python** by ST-Group1. ☕.
 Feedback, bug reports, and feature requests are welcome via GitHub Issues.
 
 ---
